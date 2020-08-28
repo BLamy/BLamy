@@ -1,4 +1,4 @@
-## Hi, I'm Brett. I like computers
+## Hi, I'm Brett. i like computers
 ### [Visit my website](https://blamy.github.io/blamy.dev)
 
 <a href="https://linkedin.com/in/blamy"><img src="/BLamy/BLamy/raw/master/linkedin.svg" width="50px" height="50px" /></a>
